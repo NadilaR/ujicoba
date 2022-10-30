@@ -40,10 +40,6 @@ input[type=text], input[type=password], input[type=email] {
     opacity: 0.9;
     border-radius: 10px;
 }
-  .register-button :hover {
-    opacity: 1;  
-    
-}
 hr {
     border: 1px solid #f1f1f1;
     margin-bottom: 16px;
